@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fonts/Inter/Inter-VariableFont_opsz\,wght.ttf') format('truetype');
+    font-weight: 100 900; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Playfair';
+    src: url('../assets/fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900; 
+    font-style: normal;
+}
+
+:root {
+  --cor-creme: #FAF7F2;
+  --cor-castanho: #3E2723;
+  --cor-caramelo: #C88A4B;
+}
